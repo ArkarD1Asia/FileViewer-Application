@@ -1,0 +1,10 @@
+D:\LogMonitor\LogMonitor\bin\Release\LogMonitor.exe.config
+D:\LogMonitor\LogMonitor\bin\Release\LogMonitor.exe
+D:\LogMonitor\LogMonitor\bin\Release\LogMonitor.pdb
+D:\LogMonitor\LogMonitor\obj\Release\FileViewer.csproj.AssemblyReference.cache
+D:\LogMonitor\LogMonitor\obj\Release\LogMonitor.FileViewer.resources
+D:\LogMonitor\LogMonitor\obj\Release\LogMonitor.Properties.Resources.resources
+D:\LogMonitor\LogMonitor\obj\Release\FileViewer.csproj.GenerateResource.cache
+D:\LogMonitor\LogMonitor\obj\Release\FileViewer.csproj.CoreCompileInputs.cache
+D:\LogMonitor\LogMonitor\obj\Release\LogMonitor.exe
+D:\LogMonitor\LogMonitor\obj\Release\LogMonitor.pdb
